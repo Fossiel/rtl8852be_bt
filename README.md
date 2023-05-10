@@ -21,7 +21,7 @@ $ Bus 003 Device 005: ID 0bda:4853 Realtek Semiconductor Corp. Bluetooth Radio
 ```
 
 ### 2. Modify/Add your USB DEVICE in btusb.c
-[Modify Here](https://github.com/HRex39/rtl8852be_bt/blob/5.15/btusb.c#L424)  
+[Modify Here](https://github.com/Fossiel/rtl8852be_bt/blob/5.15/btusb.c#L424)  
 ```
 /* Realtek 8852BE Bluetooth devices */
 { USB_DEVICE(0x0bda, 0x4853), .driver_info = BTUSB_REALTEK |
