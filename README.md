@@ -1,4 +1,4 @@
-# rtl8852be_bt
+# Mirror of rtl8852be_bt Bluetooth driver for Lenovo Ideapad3 Gaming by Hrex39
 
 ## Introduction
 This code is for realtek 8852BE bluetooth.  
